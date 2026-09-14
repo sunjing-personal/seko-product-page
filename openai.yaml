@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seko Product Page"
+  short_description: "Build, QA, and release Seko product pages and hero videos"
+  default_prompt: "Use $seko-product-page to create or update a Seko product page or hero banner, including media mastering, QA, route validation, and release evidence."
